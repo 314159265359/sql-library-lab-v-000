@@ -23,9 +23,19 @@ INSERT INTO subgenres VALUES (2, "AI");
 INSERT INTO authors VALUES (1, "Alpha");
 INSERT INTO authors VALUES (2, "Omega");
 
-
---
--- CREATE TABLE character_books (
---   id INTEGER PRIMARY KEY,
---   book_id INTEGER,
---   character_id INTEGER);
+INSERT INTO character_books VALUES (1, 1, 1);
+INSERT INTO character_books VALUES (2, 2, 2);
+INSERT INTO character_books VALUES (3, 3, 3);
+INSERT INTO character_books VALUES (4, 4, 4);
+INSERT INTO character_books VALUES (5, 5, 5);
+INSERT INTO character_books VALUES (6, 6, 6);
+INSERT INTO character_books VALUES (7, 1, 7);
+INSERT INTO character_books VALUES (8, 2, 8);
+INSERT INTO character_books VALUES (9, 1, 1);
+INSERT INTO character_books VALUES (10, 2, 2);
+INSERT INTO character_books VALUES (11, 3, 3);
+INSERT INTO character_books VALUES (12, 4, 4);
+INSERT INTO character_books VALUES (13, 5, 5);
+INSERT INTO character_books VALUES (14, 6, 6);
+INSERT INTO character_books VALUES (15, 1, 7);
+INSERT INTO character_books VALUES (16, 2, 8);
